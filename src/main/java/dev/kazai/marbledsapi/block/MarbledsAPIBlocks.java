@@ -10,7 +10,7 @@ import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 
 public class MarbledsAPIBlocks {
-    public static final Block STEEL_BLOCK = registerBlock("steel_block", new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.NETHERITE_BLOCK).destroyTime(5.0F)));
+    public static final Block STEEL_BLOCK = registerBlock("steel_block", new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_BLOCK).sound(SoundType.NETHERITE_BLOCK).destroyTime(5.0F)));
 
     public static Block registerBlock(String name, Block block) {
         return Registry.register(BuiltInRegistries.BLOCK, new ResourceLocation(MarbledsAPI.MODID, name), block);

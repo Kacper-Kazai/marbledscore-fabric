@@ -14,7 +14,7 @@
     }
   },
   "result": {
-    "item": "marbledsapi:hardened_steel_ingot",
+    "id": "marbledsapi:hardened_steel_ingot",
     "count": 2
   }
 }

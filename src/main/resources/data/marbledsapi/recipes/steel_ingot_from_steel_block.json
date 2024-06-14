@@ -9,7 +9,7 @@
     }
   },
   "result": {
-    "item": "marbledsapi:steel_ingot",
+    "id": "marbledsapi:steel_ingot",
     "count": 9
   }
 }
