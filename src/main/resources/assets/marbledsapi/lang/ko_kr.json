@@ -1,0 +1,12 @@
+{
+  "item.marbledsapi.steel_ingot": "강철 주괴",
+  "item.marbledsapi.raw_steel": "강철 원석",
+  "item.marbledsapi.steel_sheet": "강철 판",
+  "item.marbledsapi.hardened_steel_ingot": "강화된 강철 주괴",
+  "item.marbledsapi.hardened_steel_sheet": "강화된 강철 판",
+  "item.marbledsapi.rubber": "고무",
+
+  "block.marbledsapi.steel_block": "강철 블록",
+
+  "itemGroup.marbledsAPI": "Marbled의 API"
+}

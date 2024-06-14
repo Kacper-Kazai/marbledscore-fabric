@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i"
+  ],
+  "key": {
+    "i": {
+      "item": "marbledsapi:steel_block"
+    }
+  },
+  "result": {
+    "item": "marbledsapi:steel_ingot",
+    "count": 9
+  }
+}

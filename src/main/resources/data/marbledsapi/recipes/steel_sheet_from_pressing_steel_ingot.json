@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "marbledsapi:steel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "marbledsapi:steel_sheet"
+    }
+  ]
+}

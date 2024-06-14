@@ -1,0 +1,12 @@
+{
+  "item.marbledsapi.steel_ingot": "钢锭",
+  "item.marbledsapi.raw_steel": "粗钢",
+  "item.marbledsapi.steel_sheet": "钢板",
+  "item.marbledsapi.hardened_steel_ingot": "淬火钢锭",
+  "item.marbledsapi.hardened_steel_sheet": "淬火钢板",
+  "item.marbledsapi.rubber": "橡胶",
+
+  "block.marbledsapi.steel_block": "钢块",
+
+  "itemGroup.marbledsAPI": "Marbled的API"
+}

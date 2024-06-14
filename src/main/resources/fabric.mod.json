@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "${modid}",
+	"version": "${version}",
+	"name": "${modname}",
+	"description": "An API mod for all of Marbled's Mods.",
+	"authors": [
+		"Kazai",
+		"MarbledNull"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/marbleds-api-fabric"
+	},
+	"license": "ARR",
+	"icon": "assets/marbledsapi/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.kazai.marbledsapi.MarbledsAPI"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=${loader_version}",
+		"minecraft": "${depends_minecraft_version}",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {}
+}
