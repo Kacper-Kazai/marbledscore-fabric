@@ -26,7 +26,7 @@ public class MarbledsAPICreativeModeTabs {
     );
 
     public static CreativeModeTab registerCreativeModeTab(String name, CreativeModeTab creativeModeTab) {
-        return registerCreativeModeTab(new ResourceLocation(MarbledsAPI.MODID, name), creativeModeTab);
+        return registerCreativeModeTab(ResourceLocation.fromNamespaceAndPath(MarbledsAPI.MODID, name), creativeModeTab);
     }
 
     public static CreativeModeTab registerCreativeModeTab(ResourceLocation location, CreativeModeTab creativeModeTab) {

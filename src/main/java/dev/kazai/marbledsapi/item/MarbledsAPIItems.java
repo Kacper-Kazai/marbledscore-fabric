@@ -20,7 +20,7 @@ public class MarbledsAPIItems {
     public static final Item RUBBER = registerItem("rubber", new Item(new Item.Properties()));
 
     public static Item registerItem(String name, Item item) {
-        return registerItem(new ResourceLocation(MarbledsAPI.MODID, name), item);
+        return registerItem(ResourceLocation.fromNamespaceAndPath(MarbledsAPI.MODID, name), item);
     }
     public static Item registerItem(ResourceLocation location, Item item) {
         return Registry.register(BuiltInRegistries.ITEM, location, item);
