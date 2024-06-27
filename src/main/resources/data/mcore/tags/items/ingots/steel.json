@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#mcore:raw_materials/steel"
+    "mcore:steel_ingot"
   ]
 }

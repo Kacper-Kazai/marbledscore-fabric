@@ -1,0 +1,12 @@
+{
+  "item.mcore.steel_ingot": "강철 주괴",
+  "item.mcore.raw_steel": "강철 원석",
+  "item.mcore.steel_sheet": "강철 판",
+  "item.mcore.hardened_steel_ingot": "강화된 강철 주괴",
+  "item.mcore.hardened_steel_sheet": "강화된 강철 판",
+  "item.mcore.rubber": "고무",
+
+  "block.mcore.steel_block": "강철 블록",
+
+  "itemGroup.marbledsCore": "Marbled의 Core"
+}

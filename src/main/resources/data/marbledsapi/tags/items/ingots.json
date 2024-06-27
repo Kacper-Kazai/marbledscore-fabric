@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "#marbledsapi:steal_ingots",
-      "required": false
-    }
-  ]
-}

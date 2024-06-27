@@ -2,7 +2,7 @@
   "replace": false,
   "values": [
     {
-      "id": "#marbledsapi:raw_materials",
+      "id": "#mcore:raw_materials",
       "required": false
     }
   ]
