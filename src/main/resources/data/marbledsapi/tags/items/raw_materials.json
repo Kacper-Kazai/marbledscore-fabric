@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "#marbledsapi:raw_materials/steel",
-      "required": false
-    }
-  ]
-}

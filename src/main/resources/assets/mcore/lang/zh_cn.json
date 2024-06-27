@@ -1,0 +1,12 @@
+{
+  "item.mcore.steel_ingot": "钢锭",
+  "item.mcore.raw_steel": "粗钢",
+  "item.mcore.steel_sheet": "钢板",
+  "item.mcore.hardened_steel_ingot": "淬火钢锭",
+  "item.mcore.hardened_steel_sheet": "淬火钢板",
+  "item.mcore.rubber": "橡胶",
+
+  "block.mcore.steel_block": "钢块",
+
+  "itemGroup.marbledsCore": "Marbled的Core"
+}

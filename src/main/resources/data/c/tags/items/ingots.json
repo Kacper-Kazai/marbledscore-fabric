@@ -2,7 +2,7 @@
   "replace": false,
   "values": [
     {
-      "id": "#marbledsapi:ingots",
+      "id": "#mcore:ingots",
       "required": false
     }
   ]

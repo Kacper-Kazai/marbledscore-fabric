@@ -1,0 +1,12 @@
+{
+  "item.mcore.steel_ingot": "鋼錠",
+  "item.mcore.raw_steel": "粗鋼",
+  "item.mcore.steel_sheet": "鋼板",
+  "item.mcore.hardened_steel_ingot": "淬火鋼錠",
+  "item.mcore.hardened_steel_sheet": "淬火鋼板",
+  "item.mcore.rubber": "橡膠",
+
+  "block.mcore.steel_block": "鋼塊",
+
+  "itemGroup.marbledsCore": "Marbled的Core"
+}

@@ -2,7 +2,7 @@
   "replace": false,
   "values": [
     {
-      "id": "#mcore:steal_ingots",
+      "id": "#mcore:raw_materials/steel",
       "required": false
     }
   ]
