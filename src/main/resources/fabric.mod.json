@@ -9,14 +9,14 @@
 		"MarbledNull"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/marbleds-api-fabric"
+		"homepage": "https://modrinth.com/mod/marbleds-core-fabric"
 	},
 	"license": "ARR",
-	"icon": "assets/marbledsapi/icon.png",
+	"icon": "assets/mcore/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"dev.kazai.marbledsapi.MarbledsAPI"
+			"dev.kazai.marbledscore.MarbledsCore"
 		]
 	},
 	"mixins": [],
@@ -26,5 +26,7 @@
 		"java": ">=21",
 		"fabric-api": "*"
 	},
-	"suggests": {}
+	"suggests": {
+		"create": "*"
+	}
 }

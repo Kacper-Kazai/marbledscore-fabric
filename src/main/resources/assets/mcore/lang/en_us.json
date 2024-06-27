@@ -1,0 +1,12 @@
+{
+  "item.mcore.steel_ingot": "Steel Ingot",
+  "item.mcore.raw_steel": "Raw Steel",
+  "item.mcore.steel_sheet": "Steel Sheet",
+  "item.mcore.hardened_steel_ingot": "Hardened Steel Ingot",
+  "item.mcore.hardened_steel_sheet": "Hardened Steel Sheet",
+  "item.mcore.rubber": "Rubber",
+
+  "block.mcore.steel_block": "Block of Steel",
+
+  "itemGroup.marbledsCore": "Marbled's Core"
+}

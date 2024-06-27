@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#marbledsapi:ingots/steel"
+    "#mcore:ingots/steel"
   ]
 }

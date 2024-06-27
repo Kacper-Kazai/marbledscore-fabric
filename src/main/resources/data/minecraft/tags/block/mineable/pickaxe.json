@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "marbledsapi:steel_block"
+    "mcore:steel_block"
   ]
 }

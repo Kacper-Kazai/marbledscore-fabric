@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iic",
+    "cc "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "tag": "c:coals"
+    }
+  },
+  "result": {
+    "id": "mcore:raw_steel",
+    "count": 1
+  }
+}
